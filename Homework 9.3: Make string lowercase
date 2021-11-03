@@ -1,0 +1,7 @@
+string_1 = "Today is beautiful day"
+string_2 = "ToDay Is BeauTiful Day"
+
+print (string_1)
+
+string_2 = string_2.lower()
+print(string_2)
